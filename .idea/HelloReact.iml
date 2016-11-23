@@ -11,5 +11,7 @@
     <orderEntry type="library" name="foundation-DefinitelyTyped" level="application" />
     <orderEntry type="library" name="jQuery-2.0.0" level="application" />
     <orderEntry type="library" name="foundation-sites-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="mocha-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="expect-DefinitelyTyped" level="application" />
   </component>
 </module>
